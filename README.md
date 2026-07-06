@@ -19,6 +19,6 @@ isolate resources within different Availability Zones.
 - Verify that the new subnet appears in the subnet list.
 - Confirm the CIDR block, Availability Zone, and associated VPC
 
-CREATED BY 
-JAWERIYA MAHIN
+## CREATED BY 
+ JAWERIYA MAHIN
 
