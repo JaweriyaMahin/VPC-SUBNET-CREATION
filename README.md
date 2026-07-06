@@ -9,7 +9,7 @@ isolate resources within different Availability Zones.
 
 ## Parameter	         Value
 - VPC CIDR  	        192.168.0.0/16
-- Subnet Name 	      Public-Subnet
+- Subnet Name 	      my--subnet01
 - Availability Zone  	ap-south-1a
 - Subnet CIDR	        192.168.1.0/24
 
